@@ -1,7 +1,7 @@
-@font-face {font-family: 'Gilroy-Regular'; src: url('/src/fonts/Gilroy-Regular.ttf');}
-@font-face {font-family: 'Gilroy-Medium'; src: url('/src/fonts/Gilroy-Medium.ttf');}
-@font-face {font-family:'Gilroy-Bold'; src: url('/src/fonts/Gilroy-Bold.ttf');}
-@font-face {font-family: 'Gilroy-Semi-Bold';  src: url('/src/fonts/Gilroy-SemiBold.ttf');}
+@font-face {font-family: 'Gilroy-Regular'; src: url('src/fonts/Gilroy-Regular.ttf');}
+@font-face {font-family: 'Gilroy-Medium'; src: url('src/fonts/Gilroy-Medium.ttf');}
+@font-face {font-family:'Gilroy-Bold'; src: url('src/fonts/Gilroy-Bold.ttf');}
+@font-face {font-family: 'Gilroy-Semi-Bold';  src: url('src/fonts/Gilroy-SemiBold.ttf');}
 
 * {
     margin: 0;
